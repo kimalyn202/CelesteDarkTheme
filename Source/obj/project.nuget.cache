@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdiQfN0K72A=",
+  "success": false,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MonoMod.RuntimeDetour. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "filePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "libraryId": "MonoMod.RuntimeDetour",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package MonoMod.Patcher. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "filePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "libraryId": "MonoMod.Patcher",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package CelesteAnalyzer. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "filePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "libraryId": "CelesteAnalyzer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package CelesteMod.Publicizer. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "filePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\paraldarktheme\\Source\\darktheme.csproj",
+      "libraryId": "CelesteMod.Publicizer",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
